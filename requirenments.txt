@@ -4,3 +4,4 @@ matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
 seaborn==0.10.1
 streamlit==0.69.2
 Pillow @ file:///C:/ci/pillow_1594298230227/work
+scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
