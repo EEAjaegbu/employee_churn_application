@@ -1,6 +1,6 @@
 numpy
-matplotlib
 pandas
-Pillow
-streamlit
+matplotlib
 seaborn
+streamlit
+Pillow
