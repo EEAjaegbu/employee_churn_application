@@ -23,7 +23,7 @@ np.random.seed(0)
 
 
 #load the datasets for Employee who has left.
-left = pd.read_excel("C:/Users/hp/Desktop/Hash Analytics  Internship Study Kit/Assignments/Others/Hash-Analytic-Python-Analytics-Problem-case-study-1.xlsx",sheet_name=2)
+left = pd.read_excel("Hash-Analytic-Python-Analytics-Problem-case-study-1.xlsx",sheet_name=2)
 left.head(4)
 
 
@@ -31,7 +31,7 @@ left.head(4)
 
 
 #load the datasets for Employee who is still existing.
-existing = pd.read_excel("C:/Users/hp/Desktop/Hash Analytics  Internship Study Kit/Assignments/Others/Hash-Analytic-Python-Analytics-Problem-case-study-1.xlsx",sheet_name=1)
+existing = pd.read_excel("Hash-Analytic-Python-Analytics-Problem-case-study-1.xlsx",sheet_name=1)
 
 
 # In[5]:
@@ -79,7 +79,7 @@ if st.button("About Author"):
 # In[12]:
 
 ## Display
-image = Image.open("C:/Users/hp/Hash Analytics Assignments/employee_attrition.png")
+image = Image.open("employee_attrition.png")
 
 st.image(image,use_column_width=True)
 
