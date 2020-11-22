@@ -1,0 +1,6 @@
+numpy==1.18.5
+matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+pandas @ file:///C:/ci/pandas_1592833613419/work
+Pillow @ file:///C:/ci/pillow_1594298230227/work
+streamlit==0.69.2
+seaborn==0.10.1
