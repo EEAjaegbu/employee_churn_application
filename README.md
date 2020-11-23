@@ -60,13 +60,22 @@ The requirement.txt file should contain a list all the dependencies (Packages) r
 For instance, for this project our requirement.txt contains the following
 
 numpy==1.18.5
+
 pandas==1.1.3
+
 matplotlib==3.3.2
+
 seaborn==0.10.1
+
 streamlit==0.69.2
+
 Pillow==7.2.0
+
 scikit-learn==0.23.2
+
 xlrd >= 1.0.0
+
+
 b) Create a Streamlit Account: 
 `	i) Request for an invite for Streamlit sharing or share.streamlit.io, the account provide should be the same email address with the GitHub account. After you have been invited by Streamlit share, login with the GitHub Account.
 	2)  Click on New App 
