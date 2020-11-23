@@ -1,4 +1,6 @@
 EMPLOYEE ATTRITION WEB APPLICATION USING PYTHON AND STREAMLIT SHARING.
+
+
 Goal:
  To Predict The Future Employee Who Would Tend To Leave The Company.
 
@@ -56,6 +58,7 @@ i) Create a GitHub account to manage and organized your code,
 ii) Create a GitHub repository to store your code, README the requirement.txt file. 
 The requirement.txt file should contain a list all the dependencies (Packages) required to run the python code successfully.
 For instance, for this project our requirement.txt contains the following
+
 numpy==1.18.5
 pandas==1.1.3
 matplotlib==3.3.2
