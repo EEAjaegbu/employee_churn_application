@@ -77,11 +77,18 @@ xlrd >= 1.0.0
 
 
 b) Create a Streamlit Account: 
-`	i) Request for an invite for Streamlit sharing or share.streamlit.io, the account provide should be the same email address with the GitHub account. After you have been invited by Streamlit share, login with the GitHub Account.
+
+	i) Request for an invite for Streamlit sharing or share.streamlit.io, the account provide should be the same email address with the GitHub account. After you have been invited by Streamlit share, login with the GitHub Account.
+	
 	2)  Click on New App 
+	
 		- enter your GitHub repository
+		
 		- Enter the branch- Main
+		
 		- Then type python code in the repository, eg. Streamlit_app.py
+		
 		-  Then Click deploy.
+		
 Hurray, Your App is Up and Running.
 
