@@ -16,9 +16,10 @@ Step by Step process in Building the App:
 1)	Build the Machine Learning Model In Python
 2)	Build the Web app using Streamlit
 3)	 Deploying the Code to host the web application
-a)	Create a GitHub repository to store the Code and the requirement file
-b)	Request A invite from Streamlit sharing
-c)	Deploy the Code on Streamlit Sharing.
+
+	a)	Create a GitHub repository to store the Code and the requirement file
+	b)	Request A invite from Streamlit sharing
+	c)	Deploy the Code on Streamlit Sharing.
 
 
 1) Building the Machine Learning Algorithm:
