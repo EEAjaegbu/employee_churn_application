@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 from PIL import Image
+import xlrd
 
 
 # In[11]:
@@ -23,18 +24,25 @@ np.random.seed(0)
 
 
 #load the datasets for Employee who has left.
-left = pd.read_excel("Hash-Analytic-Python-Analytics-Problem-case-study-1.xlsx",sheet_name=2)
+#left = pd.read_excel("Hash-Analytic-Python-Analytics-Problem-case-study-1.xlsx",sheet_name=2)
+#left.head(4)
+
+left = pd.read_csv("employee_who_left.csv")
 left.head(4)
+
+
 
 
 # In[4]:
 
 
 #load the datasets for Employee who is still existing.
-existing = pd.read_excel("Hash-Analytic-Python-Analytics-Problem-case-study-1.xlsx",sheet_name=1)
+#existing = pd.read_excel("Hash-Analytic-Python-Analytics-Problem-case-study-1.xlsx",sheet_name=1)
+
+existing = pd.read_csv("existing _ Employee.csv")
 
 
-# In[5]:
+# In[5]: In[5]:
 
 
 ## Add the atrribute Churn to Existing Employeee dataset
